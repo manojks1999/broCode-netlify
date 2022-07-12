@@ -9,6 +9,9 @@ const Navbar = ({userLang, setUserLang, userTheme,
 		{ value: "cpp", label: "C++" },
 		{ value: "python", label: "Python" },
 		{ value: "java", label: "Java" },
+		{ value: "js", label: "Java Script" },
+		{ value: "go", label: "Go" },
+		{ value: "cs", label: "CS" },
 	];
 	const themes = [
 		{ value: "vs-dark", label: "Dark" },
