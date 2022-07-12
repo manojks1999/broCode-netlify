@@ -11,7 +11,7 @@ const Navbar = ({userLang, setUserLang, userTheme,
 		{ value: "java", label: "Java" },
 		{ value: "js", label: "Java Script" },
 		{ value: "go", label: "Go" },
-		{ value: "cs", label: "CS" },
+		{ value: "cs", label: "C#" },
 	];
 	const themes = [
 		{ value: "vs-dark", label: "Dark" },
