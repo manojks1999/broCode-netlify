@@ -54,7 +54,7 @@ function compile() {
 	});
 	let config = {
 		method: 'post',
-		url: 'https://letscodeit-api.herokuapp.com/',
+		url: 'https://lets-code-it-api.onrender.com/',
 		headers: {
 			'Content-Type': 'application/x-www-form-urlencoded'
 		},
